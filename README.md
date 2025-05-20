@@ -95,12 +95,6 @@ Estas herramientas son esenciales para desarrollar aplicaciones bien estructurad
 
 ---
 
-## 📝 ACTIVIDAD I
-
-### 📌 ArrayList, Relaciones 1 a N y Colecciones de Objetos
-
-🌟 En esta actividad, exploramos el uso de `ArrayList` en Java ☕ como una estructura dinámica para almacenar y manipular datos 📊. También analizamos las relaciones 1 a N en diagramas UML 📈 y la implementación de atributos de tipo colección en clases Java 🧩. Aprendimos a representar relaciones entre objetos y a manejar colecciones de manera eficiente para evitar errores comunes ⚡ (Cimino, 2021).
-
 ### 🎥 Recursos del Proyecto
 
 - **ArrayList en Java: Lo básico para arrancar**  
@@ -117,3 +111,5 @@ Estas herramientas son esenciales para desarrollar aplicaciones bien estructurad
   - `COLECCIONES_RELACIONES/src/main/java/com/mycompany/colecciones_relaciones/Auto.java`  
   - `COLECCIONES_RELACIONES/src/main/java/com/mycompany/colecciones_relaciones/Concesionaria.java`  
   - `COLECCIONES_RELACIONES/src/main/java/com/mycompany/colecciones_relaciones/Principal.java`
+
+> *Este repositorio es parte de ejemplos educativos sobre programación Java. Desarrollado con Java 8+ y orientado a estudiantes o desarrolladores que desean dominar los conceptos de Colecciones en profundidad.*
